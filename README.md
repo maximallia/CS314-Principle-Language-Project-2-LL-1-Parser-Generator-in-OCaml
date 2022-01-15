@@ -1,4 +1,4 @@
-# Principle-Language-Project-2-LL-1-Parser-Generator-in-OCaml
+# CS314-Principle-Language-Project-2-LL-1-Parser-Generator-in-OCaml
 
 Summary:
 
